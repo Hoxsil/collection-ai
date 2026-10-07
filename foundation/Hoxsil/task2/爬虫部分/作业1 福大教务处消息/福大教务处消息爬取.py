@@ -13,7 +13,6 @@ headers = {
   "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
   "Cache-Control": "max-age=0",
   "Connection": "keep-alive",
-  "Cookie": "JSESSIONID=859C4BCBDB6BE5333D03AE35F7F25B90",
   "Host": "jwch.fzu.edu.cn",
   "Sec-Fetch-Dest": "document",
   "Sec-Fetch-Mode": "navigate",
